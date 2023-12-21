@@ -1,0 +1,28 @@
+persons:
+  person_1:
+    average: 7
+    company_fit: 8
+    education: 7
+    name: Cynthia
+    projects: 8
+    soft_skills: 7
+    technical_skills: 6
+    yoe: 5
+  person_2:
+    average: 8
+    company_fit: 7
+    education: 8
+    name: John
+    projects: 9
+    soft_skills: 8
+    technical_skills: 7
+    yoe: 6
+  person_3:
+    average: 7
+    company_fit: 6
+    education: 8
+    name: Trish Mathers
+    projects: 6
+    soft_skills: 9
+    technical_skills: 7
+    yoe: 1
